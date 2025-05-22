@@ -12,27 +12,25 @@ export const skills = [
 
 export const experience = [
   {
-    title: "Shiprocket Private Limited",
-    duration: "September 2023 - Present",
-    subtitle: "Software Engineer",
+    title: "Fractal Analytics",
+    duration: "March 2025 - Present",
+    subtitle: "Senior Data Scientist",
     details: [
-      "Developed a design system using Stencil and Storybook that provides consistent UI components across platforms, ensuring a cohesive design.",
-      "Developed a dynamic support ticket panel that renders subcategories based on component IDs, handling up to 100 AWBs simultaneously.",
-      "Migrated 30+ modules from AngularJS to Angular 15 using Generative AI tools, reporting directly to the VP of Engineering.",
-      "Designed and implemented advanced features such as keyboard shortcuts, improving operational efficiency by 15 percent.",
-      "Took ownership of OKRs, collaborated with the product team, and mentored two junior developers, cutting their code review iterations and ensuring on-time feature delivery.",
+      "Predicted probability of Freight Conversion middle trip in Supply Chain for client **3M**",
     ],
     tags: ["JavaScript", "Angular", "Bootstrap", "AngularJs"],
     icon: "truck ",
   },
   {
-    title: "Biofourmis India Private Limited",
-    duration: "April 2022 - Jul 2023",
-    subtitle: "Software Engineer",
+    title: "John Deere",
+    duration: "August 2021 - Feb 2025",
+    subtitle: "Data Scientist",
     details: [
-      "Spearheaded the implementation of micro-frontends using Module Federation, enabling modular and scalable architecture.",
-      "Earned the Biofourmis Bravo Award for upgrading the application to support flexible operations across multiple geographies.",
-      "Enhanced performance and user experience by integrating Twilio-Video, Countly, and NGXS WebSocket for real-time data management.",
+      "Sample Based Testing for Smart-Test : Ensuring quality of vehicles, also prioritizing test cases based on their past history, thus reducing takt time of testing of a device.",
+      "Failure Prediction Rate: Predicted when a server will break down under Heavy Load using Time Series and Regression techniques, as XGBoost and Random Forest. We exposed the model via an API endpoint.",
+      "Server Error Rectification Chatbot ( Gen AI ) : Integrated advanced Language model with a vector database of frequently occurring Server Errors, employing active learning to enhance performance. Accuracy is evaluated via BLEU score.",
+      "Calibration of Devices : Created the a scalable solution for Calibration of a different vehicles ( Horizontal Scaling ) via huge message packets converted to different format, Protobuff. The tool can be reconfigured based on latest configuration provided by IT team for different vehicles. ",
+      "Setting up RabbitMQ and Grafana on Kubernetes : We set up a RabbitMQ broker for Mannheim ( Germany ) Factory on Kubernetes CaaS (Container as a Service) environment via Docker.", 
     ],
     tags: [
       "JavaScript",
@@ -47,13 +45,16 @@ export const experience = [
     icon: "heartbeat",
   },
   {
-    title: "Novopay Solutions Private Limited",
-    duration: "June 2020 - April 2022",
-    subtitle: "Software Engineer",
+    title: "Capgemini",
+    duration: "November 2016 - July 2021",
+    subtitle: "Data Analyst",
     details: [
       "Built critical banking features including AePS services (eKYC, cash withdrawal, balance inquiry) used by over 1,00,000 retailers.",
       "Developed QR code integration for wallet money loading, streamlining retailer workflows and reducing errors by 25 percent.",
       "Integrated Clevertap analytics, Freshdesk ticketing, and chatbot services, enhancing user support and engagement.",
+      "Collaborated with a team of 5 people to implement a bench marking system to determine productivity metrics of different teams on a quarterly basis.",
+      "Assisted with Data Ingestion stage, churning few of metrics such as Client Reviews, Billable hours, Absence Percentage, Last Promotion Date, Category of issues handled ,and it's turnaround time.",
+      "Wrangled logged data, to eliminate redundant comments. Presented results to delivery manager, recording a 34 % increase in the efficiency of the team.",
     ],
     tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
     icon: "qrcode",
@@ -80,9 +81,9 @@ export const trekking = [
 
 export const education = [
   {
-    title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
-    subtitle: "National Institute of Technology, Warangal",
+    title: "B.Tech. in Computer Science",
+    duration: "2012 - 2016",
+    subtitle: "Sikkim Manipal Institute of Technology",
     details: [],
     tags: [
       "Data Structures & Algorithms",
@@ -93,14 +94,6 @@ export const education = [
       "Cloud Computing",
     ],
     icon: "graduation-cap",
-  },
-  {
-    title: "Class 12th in Science and Mathematics",
-    duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
-    details: [],
-    tags: ["Physics", "Chemistry", "Mathematics"],
-    icon: "book",
   },
 ];
 
@@ -142,26 +135,22 @@ export const footer = [
   {
     label: "Links",
     data: [
-      //   {
-      //     text: "Linkedin",
-      //     link: "https://www.linkedin.com/in/vinaysomawat/",
-      //   },
-      //   {
-      //     text: "Twitter",
-      //     link: "https://twitter.com/thesigmakid",
-      //   },
-      {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
-      },
+        {
+          text: "Linkedin",
+          link: "https://www.linkedin.com/in/nishant-kumar-350043a5/",
+        },
+        {
+          text: "Medium",
+          link: "https://nishantkumar94.medium.com/",
+        },
       {
         text: "Github",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        link: "https://github.com/123nishant/trial_portfolio",
       },
     ],
   },
   {
     label: "copyright-text",
-    data: ["Made with &hearts; by Vinay Somawat"],
+    data: ["Made with &hearts; by Nishant Kumar"],
   },
 ];
