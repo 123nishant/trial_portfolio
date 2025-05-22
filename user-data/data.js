@@ -18,7 +18,7 @@ export const experience = [
     details: [
       "Predicted probability of Freight Conversion middle trip in Supply Chain for client **3M**",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "AngularJs"],
+    tags: ["MLOps", "Snowflake", "Gen AI", "Scrum", "PySpark],
     icon: "truck ",
   },
   {
@@ -33,14 +33,14 @@ export const experience = [
       "Setting up RabbitMQ and Grafana on Kubernetes : We set up a RabbitMQ broker for Mannheim ( Germany ) Factory on Kubernetes CaaS (Container as a Service) environment via Docker.", 
     ],
     tags: [
-      "JavaScript",
-      "Angular",
-      "RxJS",
-      "NGXS",
-      "TypeScript",
-      "RxState",
-      "Webpack",
-      "Optimization",
+      "Machine Learning",
+      "Kubernetes",
+      "NLP",
+      "Docker",
+      "SQL",
+      "PyTorch",
+      "Time Series",
+      "AWS",
     ],
     icon: "heartbeat",
   },
@@ -56,18 +56,8 @@ export const experience = [
       "Assisted with Data Ingestion stage, churning few of metrics such as Client Reviews, Billable hours, Absence Percentage, Last Promotion Date, Category of issues handled ,and it's turnaround time.",
       "Wrangled logged data, to eliminate redundant comments. Presented results to delivery manager, recording a 34 % increase in the efficiency of the team.",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
+    tags: ["Scikit-Learn", "NLTK", "Machine Learning", "Python", "Jenkins"],
     icon: "qrcode",
-  },
-  {
-    title: "ThinkPedia LLP",
-    duration: "May 2019 - June 2019",
-    subtitle: "SDE Intern",
-    details: [
-      `Designed and developed a social media post management panel, improving collaboration efficiency by 50 percent.`,
-    ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
-    icon: "group",
   },
 ];
 
@@ -138,14 +128,17 @@ export const footer = [
         {
           text: "Linkedin",
           link: "https://www.linkedin.com/in/nishant-kumar-350043a5/",
+          icon: "linkedin"
         },
         {
           text: "Medium",
           link: "https://nishantkumar94.medium.com/",
+          icon: "medium"
         },
       {
         text: "Github",
         link: "https://github.com/123nishant/trial_portfolio",
+        icon: "github"
       },
     ],
   },
