@@ -1,15 +1,12 @@
 export const bio = [
-  "Hello, I'm Vinay Somawat!",
-  "<strong>Frontend Software Engineer</strong> with 4+ years of experience building scalable, user-focused web applications.",
-  "Skilled in Angular, TypeScript, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
+  "Hello, I'm Nishant Kumar!",
+  "<strong>Senior Data Scientist</strong> with 7+ years of experience building scalable Data Science Solutions.",
+  "Skilled in LLM, Gen AI, NLP, Federated Learning, Python, SQL, AWS, Snowflake, PyTorch, MLOps. I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
   "Passionate about mentoring, teamwork, and continuous improvement in engineering processes.",
 ];
 
 export const skills = [
-  "JavaScript, TypeScript, Angular, AngularJS, React, HTML5, CSS, Bootstrap, Tailwind CSS",
-  "RxJS, NGXS, NGRX, WebSockets, Stencil, Storybook, Module Federation, Webpack",
-  "Jenkins, JIRA, Git",
-  "Performance Optimization, Responsive Design, Cross-Browser Compatibility",
+  "LLM, Gen AI, NLP, Federated Learning, Python, SQL, AWS, Snowflake, PyTorch, MLOps"
 ];
 
 export const experience = [
