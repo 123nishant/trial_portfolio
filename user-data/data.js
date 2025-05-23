@@ -6,8 +6,16 @@ export const bio = [
   ];
   
   export const skills = [
-    "LLM, Gen AI, NLP, Federated Learning", 
-    "Python, SQL, AWS, Snowflake, PyTorch, MLOps",
+    "LLM", 
+    "Gen AI",
+    "NLP",
+    "Federated Learning",
+    "Python",
+    "SQL",
+    "AWS",
+    "Snowflake",
+    "PyTorch",
+    "MLOps",
   ];
   
   export const experience = [
