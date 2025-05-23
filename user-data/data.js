@@ -56,7 +56,7 @@ export const bio = [
         "Assisted with Data Ingestion stage, churning few of metrics such as Client Reviews, Billable hours, Absence Percentage, Last Promotion Date, Category of issues handled ,and it's turnaround time.",
         "Wrangled logged data, to eliminate redundant comments. Presented results to delivery manager, recording a 34 % increase in the efficiency of the team.",
       ],
-      tags: ["Scikit-Learn", "NLTK", "Machine Learning", "Python", "Jenkins"],
+      tags: ["Scikit-Learn", "NLTK", "Machine Learning", "Python"],
       icon: "qrcode",
     },
   ];
