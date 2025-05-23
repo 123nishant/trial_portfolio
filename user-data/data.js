@@ -16,7 +16,7 @@ export const bio = [
       duration: "March 2025 - Present",
       subtitle: "Senior Data Scientist",
       details: [
-        "Predicted probability of Freight Conversion middle trip in Supply Chain for client <strong>3M</strong>",
+        "Predicted probability of Freight Conversion middle trip in Supply Chain for client 3M",
       ],
       tags: ["MLOps", "Snowflake", "Gen AI", "Scrum", "PySpark"],
       icon: "truck ",
@@ -92,17 +92,17 @@ export const bio = [
       label: "Links",
       data: [
           {
-            text: "<strong>Linkedin</strong>",
+            text: "Linkedin",
             link: "https://www.linkedin.com/in/nishant-kumar-350043a5/",
             icon: "/icons/linkedin.png",
           },
           {
-            text: "<strong>Medium</strong>",
+            text: "Medium",
             link: "https://nishantkumar94.medium.com/",
             icon: "/icons/medium.png",
           },
         {
-          text: "<strong>Github</strong>",
+          text: "Github",
           link: "https://github.com/123nishant/trial_portfolio",
           icon: "/icons/github_icon.png",
         },
