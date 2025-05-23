@@ -92,17 +92,17 @@ export const bio = [
       label: "Links",
       data: [
           {
-            text: "**Linkedin**",
+            text: "Linkedin",
             link: "https://www.linkedin.com/in/nishant-kumar-350043a5/",
             icon: "/icons/linkedin.png",
           },
           {
-            text: "**Medium**",
+            text: "Medium",
             link: "https://nishantkumar94.medium.com/",
             icon: "/icons/medium.png",
           },
         {
-          text: "**Github**",
+          text: "Github",
           link: "https://github.com/123nishant/trial_portfolio",
           icon: "/icons/github_icon.png",
         },
