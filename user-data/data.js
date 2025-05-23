@@ -94,17 +94,17 @@ export const bio = [
           {
             text: "Linkedin",
             link: "https://www.linkedin.com/in/nishant-kumar-350043a5/",
-            icon: "icons/linkedin.png",
+            icon: "/icons/linkedin.png",
           },
           {
             text: "Medium",
             link: "https://nishantkumar94.medium.com/",
-            icon: "icons/medium.png",
+            icon: "/icons/medium.png",
           },
         {
           text: "Github",
           link: "https://github.com/123nishant/trial_portfolio",
-          icon: "icons/github_icon.png",
+          icon: "/icons/github_icon.png",
         },
       ],
     },
