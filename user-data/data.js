@@ -92,7 +92,7 @@ export const bio = [
       label: "Links",
       data: [
           {
-            text: "Linkedin",
+            text: "/icons/linkedin.png",
             link: "https://www.linkedin.com/in/nishant-kumar-350043a5/",
             icon: "/icons/linkedin.png",
           },
